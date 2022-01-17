@@ -1,6 +1,7 @@
 package campaign
 
 import (
+	"belajarGolang/user"
 	"time"
 )
 
@@ -18,6 +19,7 @@ type Campaign struct {
 	CampaignImages   []CampaignImage
 	CreatedAt        time.Time
 	UpdatedAt        time.Time
+	User             user.User
 }
 
 type CampaignImage struct {
