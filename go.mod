@@ -7,6 +7,7 @@ require (
 	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/go-playground/validator/v10 v10.9.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/gosimple/slug v1.12.0 // indirect
 	github.com/jinzhu/now v1.1.4 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
